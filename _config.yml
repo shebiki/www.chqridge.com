@@ -1,0 +1,11 @@
+title: Chautauqua Ridge
+description: "This is my awesome goat site, more interesting information about goats needs to go here"
+url: "http://www.chqridge.com"
+
+
+exclude:
+  - CNAME
+  - README.md
+  - Gemfile
+markdown: kramdown
+permalink: pretty
