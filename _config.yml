@@ -1,11 +1,39 @@
-title: Chautauqua Ridge
-description: "This is my awesome goat site, more interesting information about goats needs to go here"
+name: Chautauqua Ridge
+description: "goats, chickens and anatolian shepherds"
 url: "http://www.chqridge.com"
+avatar:
 
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github:
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  twitter:
+  stackoverflow:
 
+disqus:
+google_analytics:
+
+baseurl: ""
 exclude:
   - CNAME
+  - LICENSE
   - README.md
   - Gemfile
+  - Gemfile.lock
 markdown: kramdown
-permalink: pretty
+highlighter: pygments
+permalink: /:title
+
+sass:
+  sass_dir: _scss
+  style: :compressed
+
+gems:
+  - jemoji
+  - jekyll-sitemap
