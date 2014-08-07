@@ -3,6 +3,14 @@ description: "goats, chickens and anatolian shepherds"
 url: "http://www.chqridge.com"
 avatar:
 
+collections:
+  goats:
+    output: true
+    permalink: /goats/:path/
+  dogs:
+    output: true
+    permalink: /dogs/:path/
+
 footer-links:
   dribbble:
   email:

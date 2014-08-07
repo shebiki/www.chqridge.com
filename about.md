@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This page needs to contain some interesting information about goats.
+This page needs to contain some interesting information about us.
 
-* goats like to follow you
-* goats make lots of noise
-* goats like to eat
+* we like goats
+* we like dogs
+* we like cats
+* we like chickens
