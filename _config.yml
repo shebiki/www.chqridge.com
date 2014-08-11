@@ -1,21 +1,23 @@
-name: Chautauqua Ridge
-description: "goats, chickens and anatolian shepherds"
-url: "http://www.chqridge.com"
+name: Chautauqua Ridge Farm
+description:
+  - ADGA Purebred and American Nubian Goats
+  - AKC Anatolian Shepherds
+url: http://www.chqridge.com
 avatar:
 
 collections:
   goats:
     output: true
     permalink: /goats/:path/
-  dogs:
+  anatolianshepherds:
     output: true
-    permalink: /dogs/:path/
+    permalink: /anatolianshepherds/:path/
 
 footer-links:
   dribbble:
-  email:
+  email: jamie@chqridge.com
   facebook:
-  flickr:
+  flickr: 126812864@N04
   github:
   instagram:
   linkedin:
