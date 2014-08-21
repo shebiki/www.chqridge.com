@@ -6,12 +6,12 @@ url: http://www.chqridge.com
 avatar:
 
 collections:
-  goats:
+  goat:
     output: true
-    permalink: /goats/:path/
-  anatolianshepherds:
+    permalink: /goat/:path/
+  anatolianshepherd:
     output: true
-    permalink: /anatolianshepherds/:path/
+    permalink: /anatolianshepherd/:path/
 
 footer-links:
   dribbble:

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Goats
-permalink: /goats/
+permalink: /goat/
 ---
 
 Details coming soon.
