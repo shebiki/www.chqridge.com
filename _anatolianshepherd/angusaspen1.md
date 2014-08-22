@@ -17,6 +17,7 @@ Shipping available at buyers cost.
 
 | :- :- :- |
 | **Puppy#** | **Gender** | **Status** |
+| -: :- :- |
 | [1](1) | male | available |
 | [2](2) | male | available |
 | [3](3) | male | available |
@@ -27,6 +28,7 @@ Shipping available at buyers cost.
 | [8](8) | male | available |
 | [9](9) | male | RESERVED |
 | [10](10) | female | available |
+{:class="puppies-summary"}
 
 [![desc](http://farm6.staticflickr.com/5587/14694735559_ef0fa4c3a7_z_d.jpg)](https://www.flickr.com/photos/126812864@N04/14694735559/)
 
