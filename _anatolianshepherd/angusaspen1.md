@@ -30,8 +30,8 @@ Shipping available at buyers cost.
 | [10](10) | female | available |
 {:class="puppies-summary"}
 
-[![desc](http://farm6.staticflickr.com/5587/14694735559_ef0fa4c3a7_z_d.jpg)](https://www.flickr.com/photos/126812864@N04/14694735559/)
+![desc](http://farm6.staticflickr.com/5587/14694735559_ef0fa4c3a7_z_d.jpg)
 
-[![desc](http://farm6.staticflickr.com/5590/14881037912_dd4f379c8b_z_d.jpg)](https://www.flickr.com/photos/126812864@N04/14881037912/)
+![desc](http://farm6.staticflickr.com/5590/14881037912_dd4f379c8b_z_d.jpg)
 
-[![desc](http://farm4.staticflickr.com/3897/14881043822_dcfcd98b2d_z_d.jpg)](https://www.flickr.com/photos/126812864@N04/14881043822/)
+![desc](http://farm4.staticflickr.com/3897/14881043822_dcfcd98b2d_z_d.jpg)
