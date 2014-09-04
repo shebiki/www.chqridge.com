@@ -15,19 +15,19 @@ Puppies are sold with full AKC registration for $600 each.
 Please [contact us](mailto:{{ site.footer-links.email }}) for more details.
 Shipping available at buyers cost.
 
-| :- :- :- |
-| **Puppy#** | **Gender** | **Status** |
-| -: :- :- |
-| [1](1) | male | available |
-| [2](2) | male | available |
-| [3](3) | male | available |
-| [4](4) | male | available |
-| [5](5) | male | available |
-| [6](6) | male | available |
-| [7](7) | male | RESERVED |
-| [8](8) | male | available |
-| [9](9) | male | RESERVED |
-| [10](10) | female | available |
+| :- :- :- :- |
+| **#** | **Puppy** | **Gender** | **Status** |
+| -: :- :- :- |
+| 1 | [Spot](1) | male | available |
+| 2 | [Chili](2) | male | available |
+| 3 | [Bandit](3) | male | available |
+| 4 | [Peanut](4) | male | available |
+| 5 | [Stormy](5) | male | available |
+| 6 | [Zeus](6) | male | available |
+| 7 | [Jasper](7) | male | RESERVED |
+| 8 | [Zip](8) | male | available |
+| 9 | [Scout](9) | male | RESERVED |
+| 10 |[Amber](10) | female | available |
 {:class="puppies-summary"}
 
 ![desc](http://farm6.staticflickr.com/5587/14694735559_ef0fa4c3a7_z_d.jpg)
