@@ -24,7 +24,7 @@ Shipping available at buyers cost.
 | [4](4) | male | available |
 | [5](5) | male | available |
 | [6](6) | male | available |
-| [7](7) | male | PENDING |
+| [7](7) | male | RESERVED |
 | [8](8) | male | available |
 | [9](9) | male | RESERVED |
 | [10](10) | female | available |
