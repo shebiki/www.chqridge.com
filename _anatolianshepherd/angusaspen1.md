@@ -26,7 +26,7 @@ Shipping available at buyers cost.
 | 6 | [Zeus](6) | male | available |
 | 7 | [Jasper](7) | male | RESERVED |
 | 8 | [Zip](8) | male | available |
-| 9 | [Scout](9) | male | RESERVED |
+| 9 | [Scout](9) | male | available |
 | 10 |[Amber](10) | female | available |
 {:class="puppies-summary"}
 
