@@ -17,7 +17,7 @@ Shipping available at buyers cost.
 | :- :- :- :- |
 | **#** | **Puppy** | **Gender** | **Status** |
 | -: :- :- :- |
-| 1 | [Spot](1) | male | available |
+| 1 | [Spot](1) | male | RESERVED |
 | 2 | [Chili](2) | male | available |
 | 3 | [Bandit](3) | male | available |
 | 4 | [Peanut](4) | male | available |
