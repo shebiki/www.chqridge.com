@@ -24,7 +24,7 @@ Shipping available at buyers cost.
 | 5 | [Stormy](5) | male | available |
 | 6 | [Zeus](6) | male | available |
 | 7 | [Jasper](7) | male | RESERVED |
-| 8 | [Zip](8) | male | available |
+| 8 | [Zip](8) | male | PENDING |
 | 9 | [Scout](9) | male | available |
 | 10 |[Amber](10) | female | PENDING |
 {:class="puppies-summary"}
