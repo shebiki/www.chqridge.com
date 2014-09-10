@@ -26,7 +26,7 @@ Shipping available at buyers cost.
 | 7 | [Jasper](7) | male | RESERVED |
 | 8 | [Zip](8) | male | available |
 | 9 | [Scout](9) | male | available |
-| 10 |[Amber](10) | female | available |
+| 10 |[Amber](10) | female | PENDING |
 {:class="puppies-summary"}
 
 ![puppies](http://farm4.staticflickr.com/3867/14956651289_22ef33b4e6_z_d.jpg)
