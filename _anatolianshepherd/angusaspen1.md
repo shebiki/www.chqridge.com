@@ -14,6 +14,8 @@ We will consider selling pups as companions to the right homes with informed own
 Please [contact us](mailto:{{ site.footer-links.email }}) for more details.
 Shipping available at buyers cost.
 
+Please click on a puppy's name to view pictures and more information.
+
 | :- :- :- :- |
 | **#** | **Puppy** | **Gender** | **Status** |
 | -: :- :- :- |
