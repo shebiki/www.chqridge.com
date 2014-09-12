@@ -27,7 +27,7 @@ Please click on a puppy's name to view pictures and more information.
 | 6 | [Zeus](6) | male | available |
 | 7 | [Jasper](7) | male | RESERVED |
 | 8 | [Zip](8) | male | PENDING |
-| 9 | [Scout](9) | male | available |
+| 9 | [Scout](9) | male | PENDING |
 | 10 |[Amber](10) | female | PENDING |
 {:class="puppies-summary"}
 
