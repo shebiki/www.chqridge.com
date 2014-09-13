@@ -21,7 +21,7 @@ Please click on a puppy's name to view pictures and more information.
 | -: :- :- :- |
 | 1 | [Spot](1) | male | RESERVED |
 | 2 | [Chili](2) | male | available |
-| 3 | [Bandit](3) | male | available |
+| 3 | [Bandit](3) | male | PENDING |
 | 4 | [Peanut](4) | male | available |
 | 5 | [Stormy](5) | male | RESERVED |
 | 6 | [Zeus](6) | male | available |
