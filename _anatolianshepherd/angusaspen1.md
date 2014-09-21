@@ -25,7 +25,7 @@ Please click on a puppy's name to view pictures and more information.
 | 4 | [Peanut](4) | male | available |
 | 5 | [Stormy](5) | male | SOLD |
 | 6 | [Zeus](6) | male | available |
-| 7 | [Jasper](7) | male | RESERVED |
+| 7 | [Jasper](7) | male | SOLD |
 | 8 | [Zip](8) | male | RESERVED |
 | 9 | [Scout](9) | male | SOLD |
 | 10 |[Amber](10) | female | PENDING |
