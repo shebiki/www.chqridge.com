@@ -19,7 +19,7 @@ Please click on a puppy's name to view pictures and more information.
 | **#** | **Puppy** | **Gender** | **Status** |
 | -: :- :- :- |
 | 1 | [Spot](1) | male | RETAINED |
-| 2 | [Chili](2) | male | available |
+| 2 | [Chili](2) | male | PENDING |
 | 3 | [Bandit](3) | male | SOLD |
 | 4 | [Peanut](4) | male | available |
 | 5 | [Stormy](5) | male | SOLD |
