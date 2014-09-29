@@ -19,13 +19,13 @@ Please click on a puppy's name to view pictures and more information.
 | **#** | **Puppy** | **Gender** | **Status** |
 | -: :- :- :- |
 | 1 | [Spot](1) | male | RETAINED |
-| 2 | [Chili](2) | male | PENDING |
+| 2 | [Chili](2) | male | SOLD |
 | 3 | [Bandit](3) | male | SOLD |
-| 4 | [Peanut](4) | male | available |
+| 4 | [Peanut](4) | male | PENDING |
 | 5 | [Stormy](5) | male | SOLD |
 | 6 | [Zeus](6) | male | SOLD |
 | 7 | [Jasper](7) | male | SOLD |
-| 8 | [Zip](8) | male | RESERVED |
+| 8 | [Zip](8) | male | SOLD |
 | 9 | [Scout](9) | male | SOLD |
 | 10 |[Amber](10) | female | PENDING |
 {:class="puppies-summary"}
