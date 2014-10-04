@@ -21,13 +21,13 @@ Please click on a puppy's name to view pictures and more information.
 | 1 | [Spot](1) | male | RETAINED |
 | 2 | [Chili](2) | male | SOLD |
 | 3 | [Bandit](3) | male | SOLD |
-| 4 | [Peanut](4) | male | PENDING |
+| 4 | [Peanut](4) | male | SOLD |
 | 5 | [Stormy](5) | male | SOLD |
 | 6 | [Zeus](6) | male | SOLD |
 | 7 | [Jasper](7) | male | SOLD |
 | 8 | [Zip](8) | male | SOLD |
 | 9 | [Scout](9) | male | SOLD |
-| 10 |[Amber](10) | female | available |
+| 10 |[Amber](10) | female | PENDING |
 {:class="puppies-summary"}
 
 ![puppies](http://farm4.staticflickr.com/3867/14956651289_22ef33b4e6_z_d.jpg)
