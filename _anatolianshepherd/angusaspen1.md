@@ -27,7 +27,7 @@ Please click on a puppy's name to view pictures and more information.
 | 7 | [Jasper](7) | male | SOLD |
 | 8 | [Zip](8) | male | SOLD |
 | 9 | [Scout](9) | male | SOLD |
-| 10 |[Amber](10) | female | PENDING |
+| 10 |[Amber](10) | female | SOLD |
 {:class="puppies-summary"}
 
 ![puppies](http://farm4.staticflickr.com/3867/14956651289_22ef33b4e6_z_d.jpg)
