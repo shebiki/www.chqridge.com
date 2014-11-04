@@ -8,11 +8,6 @@ Introducing [Angus's](../angus) and
 
 There are nine males and one female in the litter.
 
-Working homes preferred as pups are born and raised with chickens and goats.
-We will consider selling pups as companions to the right homes with informed owners.
-Please [contact us](mailto:{{ site.footer-links.email }}) for more details.
-Shipping available at buyers cost.
-
 Please click on a puppy's name to view pictures and more information.
 
 | :- :- :- :- |
