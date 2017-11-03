@@ -76,7 +76,7 @@ permalink: /goat/
 [![zenithdoe3](https://farm5.staticflickr.com/4560/24274683428_ac1443d81e_m.jpg)](https://farm5.staticflickr.com/4560/24274683428_ac1443d81e_c.jpg)
 
 * Dam: CHQ Ridge NS Zenith [N1799068](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799068)
-* Sire: Unknown
+* Sire: Unknown; Can potentially be verified by DNA testing, making her eligible for registration.
 * Date of birth: 3/20/2017
 * Price: $200
 
