@@ -44,7 +44,7 @@ sass:
   sass_dir: _scss
   style: :compressed
 
-gems:
+plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-sitemap
