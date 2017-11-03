@@ -4,4 +4,91 @@ title: Goats
 permalink: /goat/
 ---
 
-Details coming soon.
+## Merrie-Meade BRC Black Diamond
+
+[![diamond1](https://farm5.staticflickr.com/4492/24274682268_3f70c88452_m.jpg)](https://farm5.staticflickr.com/4492/24274682268_3f70c88452_c.jpg)
+[![diamond2](https://farm5.staticflickr.com/4488/26350133209_7235e7ef47_m.jpg)](https://farm5.staticflickr.com/4488/26350133209_7235e7ef47_c.jpg)
+[![diamond3](https://farm5.staticflickr.com/4523/24274688718_44c18b3885_m.jpg)](https://farm5.staticflickr.com/4523/24274688718_44c18b3885_c.jpg)
+
+* Registration number: [N1709956](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001709956)
+* Date of birth: 6/21/2014
+* Bred on 10/16/2017 to ESC-H Sir Nibblet [N1678070](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001678070)
+* Price: $200
+
+## CHQ Ridge GS Shadow's Princess
+
+[![princess1](https://farm5.staticflickr.com/4584/24274690818_21762be429_m.jpg)](https://farm5.staticflickr.com/4584/24274690818_21762be429_c.jpg)
+[![princess2](https://farm5.staticflickr.com/4446/38126803261_0b2c286260_m.jpg)](https://farm5.staticflickr.com/4446/38126803261_0b2c286260_c.jpg)
+[![princess3](https://farm5.staticflickr.com/4541/26350135059_99ab3fd939_m.jpg)](https://farm5.staticflickr.com/4541/26350135059_99ab3fd939_c.jpg)
+
+* Registration number: [N1866320](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001866320)
+* Date of birth: 3/3/2017
+* Price: $250
+
+## CHQ Ridge NRH Artemis
+
+[![artemis1](https://farm5.staticflickr.com/4444/38072364126_c51ef82abe_m.jpg)](https://farm5.staticflickr.com/4444/38072364126_c51ef82abe_c.jpg)
+[![artemis2](https://farm5.staticflickr.com/4583/24274681018_a77481175f_m.jpg)](https://farm5.staticflickr.com/4583/24274681018_a77481175f_c.jpg)
+[![artemis3](https://farm5.staticflickr.com/4444/26349991029_5558c78508_m.jpg)](https://farm5.staticflickr.com/4444/26349991029_5558c78508_c.jpg)
+
+* Registration number: [AN1799067](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799067)
+* Date of birth: 5/12/2016
+* Bred on 10/16/2017 to Cole Fyr Rudyard's Pride [AN1653196](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001653196)
+* Price: $250
+
+## CHQ Ridge NRH Athena
+
+[![athena1](https://farm5.staticflickr.com/4525/26350136409_201e4f0ee0_m.jpg)](https://farm5.staticflickr.com/4525/26350136409_201e4f0ee0_c.jpg)
+[![athena2](https://farm5.staticflickr.com/4459/38126797581_082dbf1d10_m.jpg)](https://farm5.staticflickr.com/4459/38126797581_082dbf1d10_c.jpg)
+[![athena3](https://farm5.staticflickr.com/4566/26350143509_6d242cd23d_m.jpg)](https://farm5.staticflickr.com/4566/26350143509_6d242cd23d_c.jpg)
+
+* Registration number: [AN1799069](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799069)
+* Date of birth: 5/12/2016
+* Bred on 10/17/2017 to ESC-H Supr Hercules [N1789336](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001789336)
+* Price: $300
+
+## CHQ Ridge NN Miss Glitzy
+
+[![glitzy1](https://farm5.staticflickr.com/4584/37417501604_938bd78bae_m.jpg)](https://farm5.staticflickr.com/4584/37417501604_938bd78bae_c.jpg)
+[![glitzy2](https://farm5.staticflickr.com/4569/24274692448_dfa3628603_m.jpg)](https://farm5.staticflickr.com/4569/24274692448_dfa3628603_c.jpg)
+[![glitzy3](https://farm5.staticflickr.com/4501/24274691638_3a32336a4e_m.jpg)](https://farm5.staticflickr.com/4501/24274691638_3a32336a4e_c.jpg)
+[![glitzy4](https://farm5.staticflickr.com/4540/38126802431_8c7180ee95_m.jpg)](https://farm5.staticflickr.com/4540/38126802431_8c7180ee95_c.jpg)
+
+* Registration number: [N1866318](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001866318)
+* Date of birth: 3/20/2017
+* Price: $250
+
+## Cinnamon Doe
+
+[![cinnamondoe1](https://farm5.staticflickr.com/4509/26349992229_3c32ae39f6_m.jpg)](https://farm5.staticflickr.com/4509/26349992229_3c32ae39f6_c.jpg)
+[![cinnamondoe2](https://farm5.staticflickr.com/4515/26349988059_461a813949_m.jpg)](https://farm5.staticflickr.com/4515/26349988059_461a813949_c.jpg)
+
+* Registration eligible (American)
+* Dam: Jameel TS Cinnamon [AN1825497](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001825497)
+* Sire: Lynnhaven T Nighthawk [N1707113](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001707113)
+* Date of birth: 3/21/2017
+* Price: $250
+
+## Zenith's Doe
+
+[![zenithdoe1](https://farm5.staticflickr.com/4501/38126691881_087bb0fe8a_m.jpg)](https://farm5.staticflickr.com/4501/38126691881_087bb0fe8a_c.jpg)
+[![zenithdoe2](https://farm5.staticflickr.com/4521/26349994659_7d4a6c5fa5_m.jpg)](https://farm5.staticflickr.com/4521/26349994659_7d4a6c5fa5_c.jpg)
+[![zenithdoe3](https://farm5.staticflickr.com/4560/24274683428_ac1443d81e_m.jpg)](https://farm5.staticflickr.com/4560/24274683428_ac1443d81e_c.jpg)
+
+* Dam: CHQ Ridge NS Zenith [N1799068](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799068)
+* Sire: Unknown
+* Date of birth: 3/20/2017
+* Price: $200
+
+## Hazel's Doe
+
+[![hazelsdoe1](https://farm5.staticflickr.com/4547/38126693261_8d48376ea6_m.jpg)](https://farm5.staticflickr.com/4547/38126693261_8d48376ea6_c.jpg)
+[![hazelsdoe2](https://farm5.staticflickr.com/4508/24274687248_2a7c13dd2c_m.jpg)](https://farm5.staticflickr.com/4508/24274687248_2a7c13dd2c_c.jpg)
+[![hazelsdoe3](https://farm5.staticflickr.com/4508/24274689158_7884f932a0_m.jpg)](https://farm5.staticflickr.com/4508/24274689158_7884f932a0_c.jpg)
+[![hazelsdoe4](https://farm5.staticflickr.com/4458/24274689868_161d0f6246_m.jpg)](https://farm5.staticflickr.com/4458/24274689868_161d0f6246_c.jpg)
+
+* Registration eligible (Purebred)
+* Dam: Jameel TS Hazelnut [N1825496](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001825496)
+* Sire: Lynnhaven T Nighthawk [N1707113](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001707113)
+* Date of birth: 3/25/2017
+* Price: TBD
