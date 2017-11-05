@@ -4,6 +4,14 @@ title: Goats
 permalink: /goat/
 ---
 
+All goats are G6S normal via test or parentage.
+
+All registered goats come with signed certificate in hand.
+
+All eligible goats come with signed application.
+
+All bred goats come with service memo and a free rebreeding if they come back into heat.
+
 ## Merrie-Meade BRC Black Diamond
 
 [![diamond1](https://farm5.staticflickr.com/4492/24274682268_3f70c88452_m.jpg)](https://farm5.staticflickr.com/4492/24274682268_3f70c88452_c.jpg)
