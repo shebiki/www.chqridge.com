@@ -12,17 +12,6 @@ All eligible goats come with signed application.
 
 All bred goats come with service memo and a free rebreeding if they come back into heat.
 
-## Merrie-Meade BRC Black Diamond
-
-[![diamond1](https://farm5.staticflickr.com/4492/24274682268_3f70c88452_m.jpg)](https://farm5.staticflickr.com/4492/24274682268_3f70c88452_c.jpg)
-[![diamond2](https://farm5.staticflickr.com/4488/26350133209_7235e7ef47_m.jpg)](https://farm5.staticflickr.com/4488/26350133209_7235e7ef47_c.jpg)
-[![diamond3](https://farm5.staticflickr.com/4523/24274688718_44c18b3885_m.jpg)](https://farm5.staticflickr.com/4523/24274688718_44c18b3885_c.jpg)
-
-* Registration number: [N1709956](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001709956)
-* Date of birth: 6/21/2014
-* Bred on 10/16/2017 to ESC-H Sir Nibblet [N1678070](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001678070)
-* Price: $200
-
 ## CHQ Ridge GS Shadow's Princess
 
 [![princess1](https://farm5.staticflickr.com/4584/24274690818_21762be429_m.jpg)](https://farm5.staticflickr.com/4584/24274690818_21762be429_c.jpg)
