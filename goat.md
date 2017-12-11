@@ -42,7 +42,7 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Registration number: [AN1799069](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799069)
 * Date of birth: 5/12/2016
 * Bred on 10/17/2017 to ESC-H Supr Hercules [N1789336](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001789336)
-* Price: $300
+* Price: SOLD
 
 ## CHQ Ridge NN Miss Glitzy
 
