@@ -76,16 +76,3 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Sire: Unknown; Can potentially be verified by DNA testing, making her eligible for registration.
 * Date of birth: 3/20/2017
 * Price: $200
-
-## Hazel's Doe
-
-[![hazelsdoe1](https://farm5.staticflickr.com/4547/38126693261_8d48376ea6_m.jpg)](https://farm5.staticflickr.com/4547/38126693261_8d48376ea6_c.jpg)
-[![hazelsdoe2](https://farm5.staticflickr.com/4508/24274687248_2a7c13dd2c_m.jpg)](https://farm5.staticflickr.com/4508/24274687248_2a7c13dd2c_c.jpg)
-[![hazelsdoe3](https://farm5.staticflickr.com/4508/24274689158_7884f932a0_m.jpg)](https://farm5.staticflickr.com/4508/24274689158_7884f932a0_c.jpg)
-[![hazelsdoe4](https://farm5.staticflickr.com/4458/24274689868_161d0f6246_m.jpg)](https://farm5.staticflickr.com/4458/24274689868_161d0f6246_c.jpg)
-
-* Registration eligible (Purebred)
-* Dam: Jameel TS Hazelnut [N1825496](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001825496)
-* Sire: Lynnhaven T Nighthawk [N1707113](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001707113)
-* Date of birth: 3/25/2017
-* Price: TBD
