@@ -31,7 +31,7 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Registration number: [AN1799067](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799067)
 * Date of birth: 5/12/2016
 * Bred on 10/16/2017 to Cole Fyr Rudyard's Pride [AN1653196](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001653196)
-* Price: $250
+* Price: SOLD
 
 ## CHQ Ridge NRH Athena
 
