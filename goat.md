@@ -22,28 +22,6 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Date of birth: 3/3/2017
 * Price: $250
 
-## CHQ Ridge NRH Artemis
-
-[![artemis1](https://farm5.staticflickr.com/4444/38072364126_c51ef82abe_m.jpg)](https://farm5.staticflickr.com/4444/38072364126_c51ef82abe_c.jpg)
-[![artemis2](https://farm5.staticflickr.com/4583/24274681018_a77481175f_m.jpg)](https://farm5.staticflickr.com/4583/24274681018_a77481175f_c.jpg)
-[![artemis3](https://farm5.staticflickr.com/4444/26349991029_5558c78508_m.jpg)](https://farm5.staticflickr.com/4444/26349991029_5558c78508_c.jpg)
-
-* Registration number: [AN1799067](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799067)
-* Date of birth: 5/12/2016
-* Bred on 10/16/2017 to Cole Fyr Rudyard's Pride [AN1653196](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001653196)
-* Price: SOLD
-
-## CHQ Ridge NRH Athena
-
-[![athena1](https://farm5.staticflickr.com/4525/26350136409_201e4f0ee0_m.jpg)](https://farm5.staticflickr.com/4525/26350136409_201e4f0ee0_c.jpg)
-[![athena2](https://farm5.staticflickr.com/4459/38126797581_082dbf1d10_m.jpg)](https://farm5.staticflickr.com/4459/38126797581_082dbf1d10_c.jpg)
-[![athena3](https://farm5.staticflickr.com/4566/26350143509_6d242cd23d_m.jpg)](https://farm5.staticflickr.com/4566/26350143509_6d242cd23d_c.jpg)
-
-* Registration number: [AN1799069](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799069)
-* Date of birth: 5/12/2016
-* Bred on 10/17/2017 to ESC-H Supr Hercules [N1789336](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001789336)
-* Price: SOLD
-
 ## CHQ Ridge NN Miss Glitzy
 
 [![glitzy1](https://farm5.staticflickr.com/4584/37417501604_938bd78bae_m.jpg)](https://farm5.staticflickr.com/4584/37417501604_938bd78bae_c.jpg)
@@ -76,3 +54,25 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Sire: Unknown; Can potentially be verified by DNA testing, making her eligible for registration.
 * Date of birth: 3/20/2017
 * Price: $200
+
+## CHQ Ridge NRH Artemis
+
+[![artemis1](https://farm5.staticflickr.com/4444/38072364126_c51ef82abe_m.jpg)](https://farm5.staticflickr.com/4444/38072364126_c51ef82abe_c.jpg)
+[![artemis2](https://farm5.staticflickr.com/4583/24274681018_a77481175f_m.jpg)](https://farm5.staticflickr.com/4583/24274681018_a77481175f_c.jpg)
+[![artemis3](https://farm5.staticflickr.com/4444/26349991029_5558c78508_m.jpg)](https://farm5.staticflickr.com/4444/26349991029_5558c78508_c.jpg)
+
+* Registration number: [AN1799067](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799067)
+* Date of birth: 5/12/2016
+* Bred on 10/16/2017 to Cole Fyr Rudyard's Pride [AN1653196](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001653196)
+* Price: SOLD
+
+## CHQ Ridge NRH Athena
+
+[![athena1](https://farm5.staticflickr.com/4525/26350136409_201e4f0ee0_m.jpg)](https://farm5.staticflickr.com/4525/26350136409_201e4f0ee0_c.jpg)
+[![athena2](https://farm5.staticflickr.com/4459/38126797581_082dbf1d10_m.jpg)](https://farm5.staticflickr.com/4459/38126797581_082dbf1d10_c.jpg)
+[![athena3](https://farm5.staticflickr.com/4566/26350143509_6d242cd23d_m.jpg)](https://farm5.staticflickr.com/4566/26350143509_6d242cd23d_c.jpg)
+
+* Registration number: [AN1799069](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799069)
+* Date of birth: 5/12/2016
+* Bred on 10/17/2017 to ESC-H Supr Hercules [N1789336](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001789336)
+* Price: SOLD
