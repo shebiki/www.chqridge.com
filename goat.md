@@ -33,12 +33,12 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Date of birth: 3/20/2017
 * Price: $250
 
-## Cinnamon Doe
+## CHQ Ridge NC Sweet Pea
 
 [![cinnamondoe1](https://farm5.staticflickr.com/4509/26349992229_3c32ae39f6_m.jpg)](https://farm5.staticflickr.com/4509/26349992229_3c32ae39f6_c.jpg)
 [![cinnamondoe2](https://farm5.staticflickr.com/4515/26349988059_461a813949_m.jpg)](https://farm5.staticflickr.com/4515/26349988059_461a813949_c.jpg)
 
-* Registration eligible (American)
+* Registation number: [AN1907656](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001907656)
 * Dam: Jameel TS Cinnamon [AN1825497](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001825497)
 * Sire: Lynnhaven T Nighthawk [N1707113](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001707113)
 * Date of birth: 3/21/2017
