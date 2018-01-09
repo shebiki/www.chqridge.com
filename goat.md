@@ -50,8 +50,10 @@ All bred goats come with service memo and a free rebreeding if they come back in
 [![zenithdoe2](https://farm5.staticflickr.com/4521/26349994659_7d4a6c5fa5_m.jpg)](https://farm5.staticflickr.com/4521/26349994659_7d4a6c5fa5_c.jpg)
 [![zenithdoe3](https://farm5.staticflickr.com/4560/24274683428_ac1443d81e_m.jpg)](https://farm5.staticflickr.com/4560/24274683428_ac1443d81e_c.jpg)
 
+*** *DNA testing pending* ***
+
 * Dam: CHQ Ridge NS Zenith [N1799068](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799068)
-* Sire: Unknown; Can potentially be verified by DNA testing, making her eligible for registration.
+* Sire: DNA PENDING
 * Date of birth: 3/20/2017
 * Price: $200
 
