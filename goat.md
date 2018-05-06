@@ -42,7 +42,7 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Dam: Jameel TS Cinnamon [AN1825497](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001825497)
 * Sire: Lynnhaven T Nighthawk [N1707113](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001707113)
 * Date of birth: 3/21/2017
-* Price: $250
+* Price: SOLD
 
 ## Zenith's Doe
 
@@ -55,7 +55,7 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Dam: CHQ Ridge NS Zenith [N1799068](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799068)
 * Sire: DNA PENDING
 * Date of birth: 3/20/2017
-* Price: $200
+* Price: SOLD
 
 ## CHQ Ridge NRH Artemis
 
