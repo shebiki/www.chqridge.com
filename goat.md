@@ -22,6 +22,8 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Date of birth: 3/3/2017
 * Price: $250
 
+----
+
 ## CHQ Ridge NN Miss Glitzy
 
 [![glitzy1](https://farm5.staticflickr.com/4584/37417501604_938bd78bae_m.jpg)](https://farm5.staticflickr.com/4584/37417501604_938bd78bae_c.jpg)
@@ -34,8 +36,9 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Price: $250
 
 ----
+----
 
-# Sold
+# __Sold__
 
 ## CHQ Ridge NC Sweet Pea
 
@@ -47,6 +50,8 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Sire: Lynnhaven T Nighthawk [N1707113](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001707113)
 * Date of birth: 3/21/2017
 * Price: SOLD
+
+----
 
 ## Zenith's Doe
 
@@ -61,6 +66,8 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Date of birth: 3/20/2017
 * Price: SOLD
 
+----
+
 ## CHQ Ridge NRH Artemis
 
 [![artemis1](https://farm5.staticflickr.com/4444/38072364126_c51ef82abe_m.jpg)](https://farm5.staticflickr.com/4444/38072364126_c51ef82abe_c.jpg)
@@ -71,6 +78,8 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Date of birth: 5/12/2016
 * Bred on 10/16/2017 to Cole Fyr Rudyard's Pride [AN1653196](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001653196)
 * Price: SOLD
+
+----
 
 ## CHQ Ridge NRH Athena
 
