@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Goats
+title: Goats for Sale
 permalink: /goat/
 ---
 
@@ -32,6 +32,10 @@ All bred goats come with service memo and a free rebreeding if they come back in
 * Registration number: [N1866318](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001866318)
 * Date of birth: 3/20/2017
 * Price: $250
+
+----
+
+# Sold
 
 ## CHQ Ridge NC Sweet Pea
 
