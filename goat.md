@@ -20,7 +20,7 @@ All bred goats come with service memo and a free rebreeding if they come back in
 [![princess2](https://farm5.staticflickr.com/4446/38126803261_0b2c286260_m.jpg)](https://farm5.staticflickr.com/4446/38126803261_0b2c286260_c.jpg)
 [![princess3](https://farm5.staticflickr.com/4541/26350135059_99ab3fd939_m.jpg)](https://farm5.staticflickr.com/4541/26350135059_99ab3fd939_c.jpg)
 
-* Registration number: [N1866320](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001866320)
+* Registration number: [N1866320](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001866320)
 * Date of birth: 3/3/2017
 * Price: $300
 
@@ -36,7 +36,7 @@ All bred goats come with service memo and a free rebreeding if they come back in
 [![glitzy3](https://farm5.staticflickr.com/4501/24274691638_3a32336a4e_m.jpg)](https://farm5.staticflickr.com/4501/24274691638_3a32336a4e_c.jpg)
 [![glitzy4](https://farm5.staticflickr.com/4540/38126802431_8c7180ee95_m.jpg)](https://farm5.staticflickr.com/4540/38126802431_8c7180ee95_c.jpg)
 
-* Registration number: [N1866318](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001866318)
+* Registration number: [N1866318](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001866318)
 * Date of birth: 3/20/2017
 * Price: SOLD
 
@@ -45,9 +45,9 @@ All bred goats come with service memo and a free rebreeding if they come back in
 [![cinnamondoe1](https://farm5.staticflickr.com/4509/26349992229_3c32ae39f6_m.jpg)](https://farm5.staticflickr.com/4509/26349992229_3c32ae39f6_c.jpg)
 [![cinnamondoe2](https://farm5.staticflickr.com/4515/26349988059_461a813949_m.jpg)](https://farm5.staticflickr.com/4515/26349988059_461a813949_c.jpg)
 
-* Registation number: [AN1907656](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001907656)
-* Dam: Jameel TS Cinnamon [AN1825497](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001825497)
-* Sire: Lynnhaven T Nighthawk [N1707113](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001707113)
+* Registation number: [AN1907656](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001907656)
+* Dam: Jameel TS Cinnamon [AN1825497](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001825497)
+* Sire: Lynnhaven T Nighthawk [N1707113](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001707113)
 * Date of birth: 3/21/2017
 * Price: SOLD
 
@@ -61,7 +61,7 @@ All bred goats come with service memo and a free rebreeding if they come back in
 
 *** *DNA testing pending* ***
 
-* Dam: CHQ Ridge NS Zenith [N1799068](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799068)
+* Dam: CHQ Ridge NS Zenith [N1799068](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799068)
 * Sire: DNA PENDING
 * Date of birth: 3/20/2017
 * Price: SOLD
@@ -74,9 +74,9 @@ All bred goats come with service memo and a free rebreeding if they come back in
 [![artemis2](https://farm5.staticflickr.com/4583/24274681018_a77481175f_m.jpg)](https://farm5.staticflickr.com/4583/24274681018_a77481175f_c.jpg)
 [![artemis3](https://farm5.staticflickr.com/4444/26349991029_5558c78508_m.jpg)](https://farm5.staticflickr.com/4444/26349991029_5558c78508_c.jpg)
 
-* Registration number: [AN1799067](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799067)
+* Registration number: [AN1799067](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799067)
 * Date of birth: 5/12/2016
-* Bred on 10/16/2017 to Cole Fyr Rudyard's Pride [AN1653196](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001653196)
+* Bred on 10/16/2017 to Cole Fyr Rudyard's Pride [AN1653196](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001653196)
 * Price: SOLD
 
 ----
@@ -87,7 +87,7 @@ All bred goats come with service memo and a free rebreeding if they come back in
 [![athena2](https://farm5.staticflickr.com/4459/38126797581_082dbf1d10_m.jpg)](https://farm5.staticflickr.com/4459/38126797581_082dbf1d10_c.jpg)
 [![athena3](https://farm5.staticflickr.com/4566/26350143509_6d242cd23d_m.jpg)](https://farm5.staticflickr.com/4566/26350143509_6d242cd23d_c.jpg)
 
-* Registration number: [AN1799069](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799069)
+* Registration number: [AN1799069](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001799069)
 * Date of birth: 5/12/2016
-* Bred on 10/17/2017 to ESC-H Supr Hercules [N1789336](http://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001789336)
+* Bred on 10/17/2017 to ESC-H Supr Hercules [N1789336](https://www.adgagenetics.org/GoatDetail.aspx?RegNumber=N001789336)
 * Price: SOLD
