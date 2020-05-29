@@ -25,12 +25,12 @@ Please click on a puppy's name to view pictures and more information.
 | 10 |[Amber](10) | female | SOLD |
 {:class="puppies-summary"}
 
-![puppies](http://farm4.staticflickr.com/3867/14956651289_22ef33b4e6_z_d.jpg)
+![puppies](https://farm4.staticflickr.com/3867/14956651289_22ef33b4e6_z_d.jpg)
 
 ![puppies](https://farm6.staticflickr.com/5566/15120338886_8b7126987a_z_d.jpg)
 
-![puppies](http://farm6.staticflickr.com/5587/14694735559_ef0fa4c3a7_z_d.jpg)
+![puppies](https://farm6.staticflickr.com/5587/14694735559_ef0fa4c3a7_z_d.jpg)
 
-![puppies](http://farm6.staticflickr.com/5590/14881037912_dd4f379c8b_z_d.jpg)
+![puppies](https://farm6.staticflickr.com/5590/14881037912_dd4f379c8b_z_d.jpg)
 
-![puppies](http://farm4.staticflickr.com/3897/14881043822_dcfcd98b2d_z_d.jpg)
+![puppies](https://farm4.staticflickr.com/3897/14881043822_dcfcd98b2d_z_d.jpg)
